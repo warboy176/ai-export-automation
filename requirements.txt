@@ -1,0 +1,2 @@
+# No third-party dependencies. Everything here runs on the Python 3.10+
+# standard library (urllib, csv, json, argparse).

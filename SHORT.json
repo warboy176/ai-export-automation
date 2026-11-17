@@ -1,0 +1,21 @@
+{
+  "hook": "AI finds 1,000 customers a day. That's the lie.",
+  "lines": [
+    "Real search finds dozens, not thousands.",
+    "No login scraping. No paid API. No fake database.",
+    "Keyword scoring: export, trade, logistics, customs. No black box.",
+    "Script cost: zero dollars. The render is on you, not hidden, not sold.",
+    "Cap's fifty leads a run, not a thousand a day.",
+    "The Machine God runs on free code, not fake numbers.",
+    "Witness me."
+  ],
+  "cta": "Free code: github.com/warboy176/ai-export-automation",
+  "title": "AI Finds 1,000 Customers a Day? I Tested It.",
+  "hook_text": "1,000 customers a day? That's the lie.",
+  "caption": "An Instagram ad says AI automates 80% of an export business and finds 1,000 customers a day. I rebuilt the real pipeline, free and open: public Wikipedia search for leads, transparent keyword scoring, script drafts, $0 cost, no login scraping, no paid API. Code: https://github.com/warboy176/ai-export-automation",
+  "hashtags": ["#warboy", "#Shorts", "#witnessme", "#AIautomation", "#exportbusiness", "#opensource", "#nocode", "#smallbusiness", "#AItools", "#MachineGod"],
+  "tags": ["warboy", "AI automation", "export business", "open source", "lead generation", "python", "ollama", "small business AI", "machine god", "witness me"],
+  "mirror_match": "no fake database",
+  "banner_prompt": "Post-apocalyptic wasteland war rig welded from shipping containers, a lone mechanic silhouette facing a glowing terminal screen showing a trade-route network graph, dust storm orange sky, chrome and rust, Mad Max aesthetic, cinematic wide shot, highly detailed, no text, no words, 16:9",
+  "pages": false
+}
